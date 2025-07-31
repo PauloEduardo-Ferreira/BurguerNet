@@ -72,9 +72,9 @@ Você pode abrir direto no navegador ou usar uma extensão como **Live Server** 
 
 ## 📸 Screenshots
 
-*![home]({A265E531-223C-4E43-A026-35274B2709CE}.png)*
-*![cardapio]({20EB04E6-0A2D-4684-8B7C-51F6AC4851BC}.png)*
-*![about/contato]({40630D4F-6A7B-4F22-B8B9-73D9B4D0F947}.png)*
+*<img width="1900" height="910" alt="{447820FE-50AF-4D5F-8A13-CE900241BBBD}" src="https://github.com/user-attachments/assets/6f7e1dad-8643-40dc-b429-d9696b475226" />*
+*<img width="1898" height="779" alt="{D8D35281-D806-4950-88D3-FF48B9F8AC62}" src="https://github.com/user-attachments/assets/cdf65b86-6db1-4f44-8a84-d26172db29d5" />*
+*<img width="1902" height="905" alt="{8FCF5B4C-20E0-4EE5-AF89-B2909D84E397}" src="https://github.com/user-attachments/assets/b956056b-2add-4629-bf33-b77aa56c8d3c" />*
 
 ---
 
