@@ -78,15 +78,6 @@ Você pode abrir direto no navegador ou usar uma extensão como **Live Server** 
 
 ---
 
-## 📦 Futuras Melhorias (opcional)
-
-- Integração com backend e base de dados.
-- Finalização de compra com checkout real.
-- Filtragem por preço ou popularidade.
-- Login e histórico de pedidos.
-
----
-
 ## 🧑‍💻 Autor
 
 Projeto criado por **Paulo Eduardo** — em processo de aprendizado e prática com JavaScript e desenvolvimento web.
